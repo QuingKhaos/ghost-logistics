@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: ????
+Date: 2026-07-24
   Features:
     - Freeze all belt related animations.
     - Remove all inserter arms.

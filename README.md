@@ -2,4 +2,8 @@
 
 # Ghost Logistics
 
-Removes all inserter arms and freezes all belt related animations. Serves well as a companion to Remove Animations.
+Removes all inserter arms and freezes all belt related animations. Serves well as a companion to [Remove Animations](https://mods.factorio.com/mod/remove-animations).
+
+## Credits
+
+Combines the functionality of [Ghost Inserters](https://mods.factorio.com/mod/ghost-inserters) and [Belts (and more) Animation Freeze](https://mods.factorio.com/mod/BeltsAndMoreAnimationFreeze) into one mod and updated for 2.1, but supports 2.0 as well.

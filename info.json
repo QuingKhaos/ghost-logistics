@@ -1,13 +1,14 @@
 {
   "name": "ghost-logistics",
   "title": "Ghost Logistics",
-  "description": "Freezes all inserter and belt related animations. Serves well as a companion to Remove Animations.",
+  "description": "Removes all inserter arms and freezes all belt related animations. Serves well as a companion to Remove Animations.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.77"
+    "base >= 2.0.77",
+    "? space-age >= 2.0.77"
   ],
   "package": {
     "ignore": [

@@ -2,4 +2,4 @@
 
 # Ghost Logistics
 
-Freezes all inserter and belt related animations. Serves well as a companion to Remove Animations.
+Removes all inserter arms and freezes all belt related animations. Serves well as a companion to Remove Animations.

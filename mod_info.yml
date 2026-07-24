@@ -1,8 +1,8 @@
 mod_info:
   title: |
-    ###TITLE###
+    Ghost Logistics
   summary: |
-    ###DESC###
+    Freezes all inserter and belt related animations. Serves well as a companion to Remove Animations.
   description_file: README.md
   attach_source_link: true
   license: default_gnugplv3

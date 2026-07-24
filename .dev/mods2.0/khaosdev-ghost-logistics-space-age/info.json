@@ -1,6 +1,6 @@
 {
-  "name": "khaosdev-###NAME###-vanilla",
-  "title": "// DEV // ###TITLE### // Vanilla",
+  "name": "khaosdev-ghost-logistics-space-age",
+  "title": "// DEV // Ghost Logistics // Space Age",
   "description": "",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
@@ -8,24 +8,24 @@
   "factorio_version": "2.0",
   "dependencies": [
     "base",
-    "! elevated-rails",
-    "! quality",
-    "! space-age",
+    "elevated-rails",
+    "quality",
+    "space-age",
 
     "khaosdev",
-    "BeltsAndMoreAnimationFreeze",
-    "ghost-inserters",
     "remove-animations",
 
     "barrel-stages",
     "barreling-group2",
     "khaosammogroup",
+    "khaosbioprocessinggroup",
+    "khaoscastinggroup",
     "khaoscircuitrygroup",
     "khaosmodulesgroup",
     "khaostransportgroup",
     "science-tab",
 
-    "###NAME###"
+    "ghost-logistics"
   ],
   "spoiling_required": true
 }

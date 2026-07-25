@@ -1,11 +1,11 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: ????
+Date: 2026-07-25
   Features:
     - Add mod settings to toggle freezing belt entities and removing inserter arms.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: 2026-07-25
+Date: 2026-07-24
   Features:
     - Freeze all belt related animations.
     - Remove all inserter arms.

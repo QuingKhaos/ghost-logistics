@@ -4,11 +4,13 @@
   "description": "Removes all inserter arms and freezes all belt related animations. Serves well as a companion to Remove Animations. Combines Ghost Inserters and Belts (and more) Animation Freeze into one mod and updated for 2.1, but supports 2.0 as well.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
-    "? space-age >= 2.1.11"
+    "? space-age >= 2.1.11",
+
+    "khaoslib >= 2.0.1"
   ],
   "package": {
     "ignore": [
